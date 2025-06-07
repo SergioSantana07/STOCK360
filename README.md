@@ -9,10 +9,6 @@ Certifique-se de que você tenha os seguintes requisitos instalados em seu siste
 - Python (versão recomendada: 3.7 ou superior)
 - Django
 
-##  Status do Projeto
-
-Em Desenvolvimento - Adcionado Sistema CRUD de Fornecedores,Categorias e Marcas.
-
 ## Instalação das Dependências
 
 Com o ambiente virtual ativado, instale as dependências do projeto usando o comando:
